@@ -1,0 +1,10 @@
+---
+content_type: page
+is_media_gallery: true
+layout: instructor_insights
+parent_title: Instructor Insights
+parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
+title: Video Playlist
+uid: 4baa5588-9be6-15ee-1a9c-89b0771236b0
+---
+{{< video-gallery-item href="/resources/teaching-students-how-to-solve-creative-problems-as-teams" section="Video Playlist" title="Teaching Students How to Solve Creative Problems as Teams" description="" thumbnail="https://img.youtube.com/vi/Y7cMih9O8es/default.jpg" >}} {{< video-gallery-item href="/resources/sequencing-learning-experiences" section="Video Playlist" title="Sequencing Learning Experiences" description="" thumbnail="https://img.youtube.com/vi/lyR4HQ01nos/default.jpg" >}} {{< video-gallery-item href="/resources/teaching-the-iterative-process" section="Video Playlist" title="Encouraging Iteration" description="" thumbnail="https://img.youtube.com/vi/B3_z1qTD2ZE/default.jpg" >}} {{< video-gallery-item href="/resources/fostering-diversity-of-voices" section="Video Playlist" title="Fostering Diversity of Voice" description="" thumbnail="https://img.youtube.com/vi/cBoUvyAaEUY/default.jpg" >}} {{< video-gallery-item href="/resources/assessing-students-projects" section="Video Playlist" title="Assessing Students Projects" description="" thumbnail="https://img.youtube.com/vi/HpeJ1h0V1RE/default.jpg" >}} {{< video-gallery-item href="/resources/refining-the-course" section="Video Playlist" title="Refining the Course" description="" thumbnail="https://img.youtube.com/vi/CrS0ndCbsro/default.jpg" >}} {{< video-gallery-item href="/resources/postmortem-analysis" section="Video Playlist" title="Postmortem Analysis" description="" thumbnail="https://img.youtube.com/vi/4HP37G4v3S8/default.jpg" >}} {{< video-gallery-item href="/resources/advice-for-educators" section="Video Playlist" title="Advice for Educators" description="" thumbnail="https://img.youtube.com/vi/T0GdXZusbKI/default.jpg" >}}

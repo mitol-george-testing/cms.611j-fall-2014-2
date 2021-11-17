@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: Subtitle file for a video of the Heat Wave team's final presentation.
+file: null
+file_location: /coursemedia/cms-611j-creating-video-games-fall-2014/e1650633c464dac587a3d728bcd6111c_sKolTx6sxUo.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: e1650633-c464-dac5-87a3-d728bcd6111c
+---
